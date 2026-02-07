@@ -1,15 +1,10 @@
-# Razor-Reloaded-Game-
-A side-scrolling shooter game developed in Python. This game features 6 unique and distinct levels, and 8 unique enemies including a final boss. 
-All artwork and programming was done independently by me. Instructions on how to play can be found in the game's settings menu, and all stages are available for play
-after clicking 'play'.
+# Razor Reloaded
 
-**Running the Game**
-In order to run the game, Razor Reloaded.exe must be in the same directory as the sounds and sprites folders. After both folders and the exe are placed in the same directroy, the exe can be launched to play the game without a need for installation.
+## Overview
+This a side-scrolling shooter game developed in winter 2019 as a successort to the original "Raz0r", which I developed back in 2013. This game features 6 unique and distinct levels, and 8 unique enemies including a final boss. 
+All artwork is original. Instructions on how to play can be found in the game's settings menu, and the game can be run by runnign the included exe file after cloning the repository.
 
-
-This game was developed in winter 2019. I privated the original repository as it was messy, and creating a new repo would be quicker and cleaner than re-vamping the old one. A full changelog can be found below (development notes I maintained while developing the game in 2019):
-
-
+## Changelog
 
 12/23/2019:
 Create window, and player object. Player should be able to move up, down, left, and right.
