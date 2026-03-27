@@ -1,8 +1,11 @@
 # Razor Reloaded
 
 ## Overview
-This a side-scrolling shooter game developed in winter 2019 as a successort to the original "Raz0r", which I developed back in 2013. This game features 6 unique and distinct levels, and 8 unique enemies including a final boss. 
-All artwork is original. Instructions on how to play can be found in the game's settings menu, and the game can be run by runnign the included exe file after cloning the repository.
+This a side-scrolling shooter game developed in winter 2019 as a successort to the original "Raz0r", which I developed in grade school back in 2011. This project doesn't follow best practices by any stretch of the imagination, but instead was my second personal project in college. This game features 6 unique and distinct levels, and 8 unique enemies including a final boss. 
+
+All artwork is original. 
+
+Instructions on how to play can be found in the game's settings menu, and the game can be run by running the included exe file after cloning the repository.
 
 ## Changelog
 
